@@ -92,7 +92,8 @@ class ImageApp:
         """
         cap = cv2.VideoCapture(0)
         if not cap.isOpened():
-            messagebox.showerror("Error", "Could not open webcam.")
+            messagebox.showerror("Error", "Could not open webcam."
+                                          " Try taking a photo manually and uploading using file explorer")
             return
 
         ret, frame = cap.read()
