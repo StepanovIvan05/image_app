@@ -12,7 +12,7 @@
 
 ```sh
 git clone https://github.com/StepanovIvan05/image_app
-cd название_репозитория
+cd image_app
 ```
 
 ### Шаг 2: Создайте и активируйте виртуальное окружение
