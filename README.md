@@ -11,7 +11,7 @@
 Сначала клонируйте репозиторий на локальную машину:
 
 ```sh
-git clone https://github.com/ваш_логин/название_репозитория.git
+git clone https://github.com/StepanovIvan05/image_app
 cd название_репозитория
 ```
 
